@@ -1,9 +1,10 @@
 ---
-title: "Hello Javascript"
+title: "Hello Astro"
 pubDate: 2024-05-07
 description: "Hello this is my first recommendation"
-image:
+image: "https://api.lorem.space/image/finance?w=150&h=150"
 tags: ["astro","javascript"]
+layout: "../../Layouts/Posts.astro"
 ---
 
 

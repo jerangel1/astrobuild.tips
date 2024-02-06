@@ -1,9 +1,10 @@
 ---
-title: "Hello Astro"
-pubDate: 2024-05-07
+title: "Hello World"
+pubDate: 2024-05-09
 description: "Hello this is my first recommendation"
-image:
+image: "https://api.lorem.space/image/game?w=150&h=220"
 tags: ["astro","javascript"]
+layout: "../../Layouts/Posts.astro"
 ---
 
 
