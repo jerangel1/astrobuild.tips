@@ -4,7 +4,7 @@ pubDate: 2024-05-08
 description: "Hello this is my first recommendation"
 image: "https://api.lorem.space/image/ai?w=150&h=150"
 tags: ["astro","javascript"]
-layout: "../../Layouts/Posts.astro"
+layout: "/src/layouts/Posts.astro"
 ---
 
 

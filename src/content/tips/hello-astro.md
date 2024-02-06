@@ -4,7 +4,7 @@ pubDate: 2024-05-07
 description: "Hello this is my first recommendation"
 image: "https://api.lorem.space/image/finance?w=150&h=150"
 tags: ["astro","javascript"]
-layout: "../../Layouts/Posts.astro"
+layout: "/src/layouts/Posts.astro"
 ---
 
 
