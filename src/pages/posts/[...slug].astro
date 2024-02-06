@@ -6,6 +6,7 @@ import Footer from "../../components/Footer.vue"
 import Social from  "../../components/Social.svelte"
 import HeaderTop from "../../components/HeaderTop"
 
+export const prerender = true;
 
 export async function getStaticPaths() {
 	const posts = await getCollection("tips");
@@ -25,3 +26,4 @@ const { Content } = await post.render();
 <Social/>
 <Footer/>
 </Base>
+../../components/Social.tsx
