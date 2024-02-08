@@ -62,39 +62,10 @@
 				<ul class="flex flex-wrap justify-center gap-6 md:gap-8 lg:gap-12">
 					<li>
 						<a class="text-gray-700 transition hover:text-gray-700/75" href="/">
-							About
+							Share tips and Share 💜 by <a href="https://jesus-rangel.com/">Jesús Rangel</a>
 						</a>
 					</li>
 
-					<li>
-						<a class="text-gray-700 transition hover:text-gray-700/75" href="/">
-							Careers
-						</a>
-					</li>
-
-					<li>
-						<a class="text-gray-700 transition hover:text-gray-700/75" href="/">
-							History
-						</a>
-					</li>
-
-					<li>
-						<a class="text-gray-700 transition hover:text-gray-700/75" href="/">
-							Services
-						</a>
-					</li>
-
-					<li>
-						<a class="text-gray-700 transition hover:text-gray-700/75" href="/">
-							Projects
-						</a>
-					</li>
-
-					<li>
-						<a class="text-gray-700 transition hover:text-gray-700/75" href="/">
-							Blog
-						</a>
-					</li>
 				</ul>
 			</nav>
 		</div>
