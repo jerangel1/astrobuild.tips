@@ -2,6 +2,22 @@
 
 Este proyecto es un blog desarrollado con [Astro](https://astro.build/), un moderno generador de sitios estáticos front-end.
 
+## Vistas de la página
+
+Aquí puedes ver cómo se ve la página en diferentes dispositivos:
+
+### Escritorio
+
+![Vista de escritorio](public/views/desktop.jpeg)
+
+### Tablet
+
+![Vista de tablet](public/views/movil.jpeg)
+
+### Móvil
+
+![Vista de móvil](public/views/tablet.jpeg)
+
 ## Características
 
 - Desarrollado con Astro, lo que permite una alta velocidad de carga y un excelente rendimiento.
