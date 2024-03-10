@@ -8,15 +8,15 @@ Aquí puedes ver cómo se ve la página en diferentes dispositivos:
 
 ### Escritorio
 
-![Vista de escritorio](/views/desktop.jpeg)
+![Vista de escritorio](https://github.com/jerangel1/astrobuild.tips/blob/main/views/desktop.jpeg?raw=true)
 
 ### Tablet
 
-![Vista de tablet](/views/movil.jpeg)
+![Vista de tablet](https://github.com/jerangel1/astrobuild.tips/blob/main/views/movil.jpeg?raw=true)
 
 ### Móvil
 
-![Vista de móvil](/views/tablet.jpeg)
+![Vista de móvil](https://github.com/jerangel1/astrobuild.tips/blob/main/views/tablet.jpeg?raw=true)
 
 ## Características
 
