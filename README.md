@@ -8,15 +8,15 @@ Aquí puedes ver cómo se ve la página en diferentes dispositivos:
 
 ### Escritorio
 
-![Vista de escritorio](public/views/desktop.jpeg)
+![Vista de escritorio](/views/desktop.jpeg)
 
 ### Tablet
 
-![Vista de tablet](public/views/movil.jpeg)
+![Vista de tablet](/views/movil.jpeg)
 
 ### Móvil
 
-![Vista de móvil](public/views/tablet.jpeg)
+![Vista de móvil](/views/tablet.jpeg)
 
 ## Características
 
