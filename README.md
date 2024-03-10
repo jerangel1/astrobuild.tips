@@ -8,14 +8,21 @@ Aquí puedes ver cómo se ve la página en diferentes dispositivos:
 
 ### Escritorio
 
-![Imagen del proyecto](public/img/views/desktop.jpeg)
+<p align="center">
+  <img src="public/img/views/desktop.jpeg" alt="Imagen del proyecto">
+</p>
 
 ### Tablet
 
-![Imagen del proyecto](public/img/views/tablet.jpeg)
+<p align="center">
+  <img src="public/img/views/tablet.jpeg" alt="Imagen del proyecto">
+</p>
 
 ### Móvil
-![Imagen del proyecto](public/img/views/movil.jpeg)
+
+<p align="center">
+  <img src="public/img/views/movil.jpeg" alt="Imagen del proyecto">
+</p>
 
 ## Características
 
